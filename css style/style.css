@@ -21,3 +21,8 @@ body{
 .decoration{
     list-style: none;
 }
+
+.ring-card:hover{
+    transform: scale(1.2);
+    transition:5s;
+}
